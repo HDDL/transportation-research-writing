@@ -1,0 +1,7 @@
+interface:
+  display_name: "Transportation Research Writing"
+  short_description: "Student writing and rebuttal help for transportation research"
+  default_prompt: "Use $transportation-research-writing to choose the correct mode for this request, then either provide multiple paper-ready English rewrites for sentence-level revision or one final manuscript/rebuttal passage in a user-informed but standardized academic transportation research style."
+
+policy:
+  allow_implicit_invocation: true
